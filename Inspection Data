@@ -1,0 +1,17 @@
+01 | The Evidence Base
+Purpose: Explain where the inspection records came from and what the analysis considers an adverse outcome.
+
+File in this section
+DATA INSPECT-1.xlsx — cleaned Montgomery County inspection records, ready for Excel or Tableau.
+Source and coverage
+Publisher: Montgomery County, Maryland
+Dataset: Food Inspection on Data.gov
+Period reported by the team: October 5, 2022 – October 3, 2024
+Fields: Establishment attributes, inspection outcome and type, date, and compliance checks.
+How to use
+Download DATA INSPECT-1.xlsx, open the DATA INSPECT worksheet, and filter on Inspection Results, Category, Inspection Type, or individual safety checks. For Tableau, reconnect the workbook to this file if asked.
+
+Cleaning and interpretation
+The team defined adverse outcomes as Critical Violations Corrected or Facility Closed, with No Critical Violations Noted as the comparison class. This is a project-defined label, not a government-issued pass/fail grade.
+
+Record-count note: The team's written report states 11,854 inspections, while the supplied cleaned workbook has 11,835 data rows (plus a header). Confirm which cleaned version is authoritative before reporting an exact sample size.
