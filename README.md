@@ -1,4 +1,4 @@
-# Final-Project-Jace-M# Food Safety Risk Signals
+# Food Safety Risk Signals: Montgomery County
 ### Montgomery County, Maryland · BUS 446 Business Analytics
 
 **A public-health analytics case study about what inspection history can—and cannot—tell us.**
