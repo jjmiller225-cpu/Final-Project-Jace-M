@@ -29,8 +29,6 @@ This repository takes the reader through the analysis in five connected chapters
 
 > **Why the last two numbers matter:** A model can report respectable overall accuracy while failing to identify most adverse inspections. In food safety, overlooked risks carry consequences; sensitivity and review capacity need attention alongside accuracy.
 
-## Follow the project
-
 ## Three findings that shape the recommendations
 
 **Facility category matters.** In the team's analysis, public middle schools (40.5%), restaurants (36.2%), and carry-out locations (33.2%) showed high observed adverse-outcome rates. Those descriptive comparisons depend on the composition of inspections.
