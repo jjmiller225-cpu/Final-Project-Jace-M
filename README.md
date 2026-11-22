@@ -31,14 +31,6 @@ This repository takes the reader through the analysis in five connected chapters
 
 ## Follow the project
 
-| Chapter | What you'll find | Source material |
-|---|---|---|
-| **[01 — Inspection Data](01_Inspection_Data/)** | Data source, definitions, cleaning, and dataset | Cleaned inspection Excel workbook |
-| **[02 — Tableau Insights](02_Tableau_Insights/)** | Outcome patterns, leading violations, and seasonal variation | Tableau workbooks and visuals |
-| **[03 — Risk Prediction](03_Risk_Prediction/)** | Logistic regression and threshold evaluation | Regression workbook |
-| **[04 — Business Case](04_Business_Case/)** | The final report and inspection-priority recommendations | Business case report |
-| **[05 — Project Context](05_Project_Context/)** | Original research questions and task plan | Planning documents |
-
 ## Three findings that shape the recommendations
 
 **Facility category matters.** In the team's analysis, public middle schools (40.5%), restaurants (36.2%), and carry-out locations (33.2%) showed high observed adverse-outcome rates. Those descriptive comparisons depend on the composition of inspections.
